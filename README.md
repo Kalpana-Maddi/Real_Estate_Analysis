@@ -1,5 +1,3 @@
-# Real_Estate_Analysis
-
 # 🏡 Real Estate Analysis – King County Housing Data
 
 ## 📌 Project Overview
@@ -104,8 +102,4 @@ The goal is to provide **data-driven recommendations** to help:
 
 * Dataset: **King County House Sales Dataset**
 * Tools: Python, Pandas, Scikit-learn, Seaborn, Matplotlib
-
----
-
-✨ *This project demonstrates how data science and machine learning can uncover actionable insights in the real estate market.*
 
